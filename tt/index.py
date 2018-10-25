@@ -5,3 +5,7 @@ def login():
 
 num2 = 30
 
+num3 = 50
+
+def info():
+	return '孙燕姿 漩涡'
